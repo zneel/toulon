@@ -10,7 +10,9 @@
   "author": "Elliot Bouvier <elliotbouvier@protonmail.com>",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^6.1.0",
     "express": "^4.16.4",
+    "firebase": "^5.5.5",
     "socket.io": "^2.1.1"
   },
   "scripts": {
