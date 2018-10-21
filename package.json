@@ -10,11 +10,16 @@
   "author": "Elliot Bouvier <elliotbouvier@protonmail.com>",
   "license": "MIT",
   "dependencies": {
+    "express": "^4.16.4",
     "socket.io": "^2.1.1"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
   },
   "devDependencies": {
     "eslint": "^5.7.0",
     "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.14.0"
+    "eslint-plugin-import": "^2.14.0",
+    "nodemon": "^1.18.4"
   }
 }
