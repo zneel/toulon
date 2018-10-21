@@ -1,0 +1,20 @@
+{
+  "name": "toulon",
+  "version": "1.0.0",
+  "description": "socket.io chat",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/zneel/toulon",
+    "type": "git"
+  },
+  "author": "Elliot Bouvier <elliotbouvier@protonmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^2.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.7.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
